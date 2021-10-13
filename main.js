@@ -5,4 +5,4 @@ async function test() {
   console.log(await promise)
 }
 
- test ()
+ test () 
